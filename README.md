@@ -31,7 +31,7 @@ python test.py
 ## Repository Structure
 
 - **`test.py`**: The main script to test the Cuckoo filter and machine learning integration.
-- **`X_1`**: Input financial data file.
+- **`transactions`**: Input financial data file.
 - **`random_forest_model.joblib`**: Pre-trained machine learning model file.
 - **`top_50_legitimate_users`**: File containing information about the top legitimate users.
 
