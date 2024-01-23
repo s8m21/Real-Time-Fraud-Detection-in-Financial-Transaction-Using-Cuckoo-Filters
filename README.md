@@ -13,7 +13,7 @@ Follow the steps below to use the implementation:
 1. **Update File Paths:**
    - Open the `test.py` file.
    - Change the paths of the following files:
-     - `X_1.csv` file: Input financial data.
+     - `transactions.csv` file: Input financial data.
      - `random_forest_model.joblib`: Pre-trained machine learning model file.
      - `top_50_legitimate_users.txt`: File containing information about the top legitimate users.
 
